@@ -13,5 +13,5 @@
 
 1. [ISSUE #19- FE DEVELOPMENT OF IRONHIDE TEMPLATE TASK ALLOCATION](https://github.com/zuri-training/my-cms-pjt19/issues/11)
 2. [ISSUE #3- DATABASE SCHEMA DESIGN TASK ALLOCATION](https://github.com/zuri-training/my-cms-pjt19/issues/3)
-3. [FIRST DESIGN](https://github.com/zuri-training/my-cms-pjt19/tree/Ironhide_Reorganised)
-4. [DESIGN REORGANISED](https://github.com/zuri-training/my-cms-pjt19/tree/FE_development_Ironhide)
+3. [FIRST DESIGN](https://github.com/zuri-training/my-cms-pjt19/tree/FE_development_Ironhide)
+4. [DESIGN REORGANISED](https://github.com/zuri-training/my-cms-pjt19/tree/Ironhide_Reorganised)
